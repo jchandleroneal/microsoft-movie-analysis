@@ -38,28 +38,26 @@ Questions to consider:
 ## Results
 
 Budgets above 150 million dollars have a stronger correlation with profit that those below 150 million. 
+
 ![regression plot](images/regression.png)
 
 ---
 The 10 Actors that appeared in 10 or more of the most profitable films tended to have a mean profit above 30 million.
+
 ![actor bar plot](images/bar_plot.png)
 
 ---
 
 The 20 most successful movies filtered by budget over 150 million dollars, tomatometer rating above 85, and profit above 300 million dollars had a consistent tomatometer status of Certified-Fresh.
+
 ![top 20 bar plot](images/20_bar_plot.png)
 
 ---
 
 The 10 actors who appeared in 10 or more of the most profitable films appeared in the most successful 80% of the time. 
+
 ![pie plot](images/pie_plot.png)
 
-
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
 
 
 ## Conclusions
