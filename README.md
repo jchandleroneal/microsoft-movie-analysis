@@ -7,13 +7,13 @@
 
 ## Overview
 
-The focus of this project was to analyze the current film industry to offer Microsoft Corporation the best approach to compete with them. We observed 11 tables that contained numerous types of information about the film industry including movie cost, rating, profit, and actor information. We consolidated the data by observing and merging 4 tables to study 1,455 movies. This analysis can be useful to the Microsoft Corporation to determine the most profitable solution for allocating their funding had they decided to go into the film industry. 
+The focus of this project was to analyze the current film industry to offer Microsoft Corporation the best approach to compete with them. We observed 11 tables that contained information on the film industry including movie cost, rating, profit, and actor information. We consolidated the data by observing and merging 4 tables together and found a total colelction of 1,455 movies. This analysis can be useful to the Microsoft Corporation to determine the most profitable solution for allocating their funding had they decided to go into the film industry. 
 
 
 
-
+----
 ## Given the available data, we chose tables that included information about actors, movie bundget / gross returns, and movie rating. After retreiving our information from the tables, we hypothesized that actors / actresses who appeared repeatedly (more that ten times) in the most profitable films would likely appear in the most successful films (films that had a profit at or above 300 million dollars and a tomatometer rating above 85). 
-
+---
 
 
 
@@ -22,16 +22,10 @@ The focus of this project was to analyze the current film industry to offer Micr
 Microsoft Corporation may be able to focus their funding on hiring actors who have appeared in ten or more of the most profitable films in the industy to improve Microsoft's profitablility and success rate. Microsoft may also be able to improve the profitability of their films by placing a minimum budget on their films of 150,000,000 dollars to produce higher quality films. 
 
 
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
 
 ## Data
 
-Describe the data being used for this project.
+The 11 tables that we were given each contained a unique ID that was associated with the movie titles. These data sets contained information information about actors, movie bundget, gross returns, movie rating, and other film attributes.
 
 ***
 Questions to consider:
