@@ -41,13 +41,17 @@ Questions to consider:
 * What are the properties of the variables you intend to use?
 ***
 
-![camera_cover](images/camera_cover)
+![regression plot](images/regression)
 
 
-![camera_cover](images/camera_cover)
+![actor bar plot](images/bar_plot)
 
 
-![camera_cover](images/camera_cover)
+![top 20 bar plot](images/20_bar_plot)
+
+
+![pie plot](images/pie_plot)
+
 
 
 
