@@ -1,4 +1,4 @@
-![camera_cover](images/camera_cover)
+![camera_cover](images/camera_cover.png)
 
 
 # Microsoft Movie Visualization 
@@ -41,16 +41,16 @@ Questions to consider:
 * What are the properties of the variables you intend to use?
 ***
 
-![regression plot](images/regression)
+![regression plot](images/regression.png)
 
 
-![actor bar plot](images/bar_plot)
+![actor bar plot](images/bar_plot.png)
 
 
-![top 20 bar plot](images/20_bar_plot)
+![top 20 bar plot](images/20_bar_plot.png)
 
 
-![pie plot](images/pie_plot)
+![pie plot](images/pie_plot.png)
 
 
 
