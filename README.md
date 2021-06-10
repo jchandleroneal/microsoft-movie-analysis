@@ -85,7 +85,7 @@ Further analysis could offer more in-depth predictions to increase the likelihoo
 ## For More Information
 
 
-Please review our full analysis in [our Jupyter Notebook](./microsoft_movie_analysis.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./movie_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
 
 For any additional questions, please contact **Jordan Jones & jtjones1@bsc.edu, Chandler O'Neal & jchandleroneal@gmail.com**
 
