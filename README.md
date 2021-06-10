@@ -4,34 +4,39 @@
 # Microsoft Movie Visualization 
 ---
 **Authors**: Chandler O'Neal, Jordan Jones
+---
 
 ## Overview
----
+
 The focus of this project was to analyze the current film industry to offer Microsoft Corporation the best approach to compete with their competitors. The project observed 11 tables that contained information on the film industry including movie cost, rating, profit, and actor information. The tables were then consolidated to 4 tables; the four tables contained a total collection of 1,455 movies. This analysis can be useful to the Microsoft Corporation to determine the most profitable solution for allocating their funding had they decided to go into the film industry. 
 
+---
 
 ## Business Problem
----
+
 Microsoft Corporation may be able to focus their funding on hiring actors who have appeared in ten or more of the most profitable films in the industry to improve Microsoft's profitability and success rate. Microsoft may also be able to improve the profitability of their films by placing a minimum budget of 150 million dollars in order to produce higher quality films. 
 
+---
 
 ## Data
----
+
 The 11 tables each contained a unique ID that was associated with the movie titles. These data sets contained information about actors, movie budget, gross returns, movie rating, and other film attributes.
 
+---
 
 ## Methods
----
+
 This project uses descriptive analyses, such as the measure of variability for budget and profitability as well as the tendency for actors in the most profitable films. This provides useful information on the impact on budget as well as actors who have taken part in the most profitable films. 
 
+---
 
 ## Results
----
-Budgets above 150 million dollars have a stronger correlation with profit that those below 150 million. 
 
+Budgets above 150 million dollars have a stronger correlation with profit that those below 150 million. 
 ![regression plot](images/regression.png)
 
 ---
+
 The 10 Actors that appeared in 10 or more of the most profitable films tended to be in a film with a mean profit above 30 million dollars.
 
 ![actor bar plot](images/bar_plot.png)
@@ -49,9 +54,10 @@ The 10 actors with the highest avereage profit appeared in the most successful 8
 ![pie plot](images/pie_plot.png)
 
 
+---
 
 ## Conclusions
----
+
 
 This analysis offers three recomendations to Microsoft Corporation to increase their success rate in film production.
 
@@ -61,8 +67,10 @@ This analysis offers three recomendations to Microsoft Corporation to increase t
 
 
 
+---
 
 ## Next Steps
+
 
 Further analysis could offer more in-depth predictions to increase the likelihood of film success and profitablility
 
@@ -71,19 +79,26 @@ Further analysis could offer more in-depth predictions to increase the likelihoo
 * A descriptive analysis of particularly undesired outcomes based on films that have failed in the industry.
 
 
+---
+
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](microsoft_movie_analysis.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+
+Please review our full analysis in [our Jupyter Notebook](./microsoft_movie_analysis.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
 For any additional questions, please contact **Jordan Jones & jtjones1@bsc.edu, Chandler O'Neal & jchandleroneal@gmail.com**
 
+
+---
+
 ## Repository Structure
+
 
 ```
 ├── README.md                           <- The README for project summary
 ├── movie_analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── create_sql_database.ipynb           <- The tables used for this project 
+├── microsoft_Movie_Analysis.pdf        <- PDF version of project presentation
+├── data_sets.ipynb                     <- The tables used for this project 
 ├── images                              <- The images used  
 ├── src                                 <- The table links used 
 └── data/zippedData                     <- The links of the tables used for this project 
