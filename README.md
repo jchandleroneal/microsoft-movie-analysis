@@ -12,7 +12,7 @@ The focus of this project was to analyze the current film industry to offer Micr
 
 ## Business Problem
 ---
-Microsoft Corporation may be able to focus their funding on hiring actors who have appeared in ten or more of the most profitable films in the industy to improve Microsoft's profitablility and success rate. Microsoft may also be able to improve the profitability of their films by placing a minimum budget of 150 million dollars in order to produce higher quality films. 
+Microsoft Corporation may be able to focus their funding on hiring actors who have appeared in ten or more of the most profitable films in the industry to improve Microsoft's profitability and success rate. Microsoft may also be able to improve the profitability of their films by placing a minimum budget of 150 million dollars in order to produce higher quality films. 
 
 
 ## Data
@@ -53,11 +53,11 @@ The 10 actors with the highest avereage profit appeared in the most successful 8
 ## Conclusions
 ---
 
-This analysis offers three reccomendations to Microsoft Corporation to increase their success rate in film production.
+This analysis offers three recomendations to Microsoft Corporation to increase their success rate in film production.
 
 * Produce a minimum budget for each film of least 150 million dollars and or ensure the best quality possible using budget. 
 
-* Seek out actors who have been present in ten or more highly profitable films; the analysis' provided that actors who have been present in such highly profitable films have offered a higher success rate for ongoing films.
+* Seek out actors who have been present in ten or more highly profitable films; the analysis provided that actors who have been present in such highly profitable films have offered a higher success rate for ongoing films.
 
 
 
@@ -66,25 +66,25 @@ This analysis offers three reccomendations to Microsoft Corporation to increase 
 
 Further analysis could offer more in-depth predictions to increase the likelihood of film success and profitablility
 
-* Insight to suggested badget based off film length 
+* Insight to suggested budget based off film length 
 
 * A descriptive analysis of particularly undesired outcomes based on films that have failed in the industry.
 
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](microsoft_movie_analysis.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Jordan Jones & jtjones1@bsc.edu, Chandler O'Neal & jchandleroneal@gmail.com**
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── README.md                           <- The README for project summary
+├── movie_analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── create_sql_database.ipynb           <- The tables used for this project 
+├── images                              <- The images used  
+├── src                                 <- The table links used 
+└── data/zippedData                     <- The links of the tables used for this project 
 ```
