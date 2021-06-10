@@ -12,7 +12,7 @@ The focus of this project was to analyze the current film industry to offer Micr
 
 
 ----
-## Given the available data, we chose tables that included information about actors, movie bundget / gross returns, and movie rating. After retreiving our information from the tables, we hypothesized that actors / actresses who appeared repeatedly (more that ten times) in the most profitable films would likely appear in the most successful films (films that had a profit at or above 300 million dollars and a tomatometer rating above 85). 
+## After retreiving our information from the tables, we hypothesized that actors / actresses who appeared repeatedly (more that ten times) in the most profitable films would likely appear in the most successful films (films that had a profit at or above 300 million dollars and a tomatometer rating above 85). 
 ---
 
 
@@ -27,31 +27,10 @@ Microsoft Corporation may be able to focus their funding on hiring actors who ha
 
 The 11 tables that we were given each contained a unique ID that was associated with the movie titles. These data sets contained information information about actors, movie bundget, gross returns, movie rating, and other film attributes.
 
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
-
-![regression plot](images/regression.png)
-
-
-![actor bar plot](images/bar_plot.png)
-
-
-![top 20 bar plot](images/20_bar_plot.png)
-
-
-![pie plot](images/pie_plot.png)
-
-
-
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+This project uses discriptive analysis, such as the measure of variability for budget and profitability as well as the tendency for actors in the most profitable films. This provides useful information on the impact on budget as well as actors who have taken part in the most profitable films. 
 
 ***
 Questions to consider:
@@ -61,7 +40,22 @@ Questions to consider:
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+
+### Visual 1
+![regression plot](images/regression.png)
+
+
+### Visual 2
+![actor bar plot](images/bar_plot.png)
+
+
+### Visual 3
+![top 20 bar plot](images/20_bar_plot.png)
+
+
+### Visual 4
+![pie plot](images/pie_plot.png)
+
 
 ***
 Questions to consider:
@@ -69,10 +63,6 @@ Questions to consider:
 * How confident are you that your results would generalize beyond the data you have?
 ***
 
-Here is an example of how to embed images from your sub-folder:
-
-### Visual 1
-![graph1](./images/viz1.png)
 
 ## Conclusions
 
