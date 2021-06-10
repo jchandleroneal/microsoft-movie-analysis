@@ -33,6 +33,7 @@ This project uses descriptive analyses, such as the measure of variability for b
 ## Results
 
 Budgets above 150 million dollars have a stronger correlation with profit that those below 150 million. 
+
 ![regression plot](images/regression.png)
 
 ---
@@ -95,11 +96,12 @@ For any additional questions, please contact **Jordan Jones & jtjones1@bsc.edu, 
 
 
 ```
-├── README.md                           <- The README for project summary
-├── movie_analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
-├── microsoft_Movie_Analysis.pdf        <- PDF version of project presentation
-├── data_sets.ipynb                     <- The tables used for this project 
-├── images                              <- The images used  
-├── src                                 <- The table links used 
-└── data/zippedData                     <- The links of the tables used for this project 
+├──data/zippedData                     <- The tables used for this project 
+├──images                              <- The images used 
+├──src                                 <- The table links used 
+├──.gitignore       
+├──README.md                           <- The README for project summary
+├──data_sets.ipynb                     <- The links of the tables used for this project 
+├──movie_analysis.ipynb                <- Narrative documentation of analysis in Jupyter notebook
+└── presentation_Analysis.pdf           <- PDF version of project presentation
 ```
