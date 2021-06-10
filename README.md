@@ -7,7 +7,8 @@
 
 ## Overview
 
-The focus of this project was to analyze the current film industry to offer Microsoft Corportation the best approach to compete with them. We observed 11 tables that contained numerous types information about the film industry including movie cost, rating, profit, and actor information. We consolidated the data by observing and merging 4 tables to study 1,455 movies. This analysis can be useful to the Microsoft Corporation to the determine the most probable solution of where to allocate their funding had they decided to go into the film industry. 
+The focus of this project was to analyze the current film industry to offer Microsoft Corporation the best approach to compete with them. We observed 11 tables that contained numerous types of information about the film industry including movie cost, rating, profit, and actor information. We consolidated the data by observing and merging 4 tables to study 1,455 movies. This analysis can be useful to the Microsoft Corporation to determine the most profitable solution for allocating their funding had they decided to go into the film industry. 
+
 
 
 
@@ -15,13 +16,11 @@ The focus of this project was to analyze the current film industry to offer Micr
 
 
 
-## Overview
-
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+Microsoft Corporation may be able to focus their funding on hiring actors who have appeared in ten or more of the most profitable films in the industy to improve Microsoft's profitablility and success rate. Microsoft may also be able to improve the profitability of their films by placing a minimum budget on their films of 150,000,000 dollars to produce higher quality films. 
+
 
 ***
 Questions to consider:
@@ -41,6 +40,16 @@ Questions to consider:
 * What is the target variable?
 * What are the properties of the variables you intend to use?
 ***
+
+![camera_cover](images/camera_cover)
+
+
+![camera_cover](images/camera_cover)
+
+
+![camera_cover](images/camera_cover)
+
+
 
 ## Methods
 
