@@ -1,15 +1,18 @@
+![camera_cover](images/camera_cover)
+
+
 # Microsoft Movie Visualization 
 
 **Authors**: Chandler O'Neal, Jordan Jones
 
 ## Overview
 
-We were given a task to determine what route would be most successful for Microsoft Corporation to take in the movie industry, had they decided to began producing movies. Given the available data, we chose tables that included information about actors, movie bundget / gross returns, and movie rating. From the information that we extracted from the tables, we then 
+The focus of this project was to observe 11 tables that contained numerous types information about the film industry and previously produced movies, and offer the Microsoft Corporation the best solution of where to focus their funding had they decided to go into the film industry. We consolidated the data by observing and merging 4 tables to study 1455 movies. 
 
-##
+## 
 
 
-##
+## Given the available data, we chose tables that included information about actors, movie bundget / gross returns, and movie rating. After retreiving our information from the tables, we hypothesized that actors / actresses who appeared repeatedly (more that ten times) in the most profitable films would likely appear in the most successful films (films that had a profit at or above 300 million dollars and a tomatometer rating above 85). 
 
 
 
