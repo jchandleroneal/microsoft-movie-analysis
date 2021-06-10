@@ -7,9 +7,8 @@
 
 ## Overview
 
-The focus of this project was to observe 11 tables that contained numerous types information about the film industry and previously produced movies, and offer the Microsoft Corporation the best solution of where to focus their funding had they decided to go into the film industry. We consolidated the data by observing and merging 4 tables to study 1455 movies. 
+The focus of this project was to analyze the current film industry to offer Microsoft Corportation the best approach to compete with them. We observed 11 tables that contained numerous types information about the film industry including movie cost, rating, profit, and actor information. We consolidated the data by observing and merging 4 tables to study 1,455 movies. This analysis can be useful to the Microsoft Corporation to the determine the most probable solution of where to allocate their funding had they decided to go into the film industry. 
 
-## 
 
 
 ## Given the available data, we chose tables that included information about actors, movie bundget / gross returns, and movie rating. After retreiving our information from the tables, we hypothesized that actors / actresses who appeared repeatedly (more that ten times) in the most profitable films would likely appear in the most successful films (films that had a profit at or above 300 million dollars and a tomatometer rating above 85). 
