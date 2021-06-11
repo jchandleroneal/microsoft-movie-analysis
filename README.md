@@ -50,7 +50,7 @@ The 20 most successful movies filtered by budget over 150 million dollars, tomat
 
 ---
 
-The 10 actors with the highest avereage profit appeared in the most successful 80% of the time. 
+The 10 actors with the highest average profit appeared in the most successful 80% of the time. 
 
 ![pie plot](images/pie_plot.png)
 
