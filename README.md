@@ -26,7 +26,7 @@ The 11 tables each contained a unique ID that was associated with the movie titl
 
 ## Methods
 
-This project uses descriptive analyses, such as the measure of variability for budget and profitability as well as the tendency for actors in the most profitable films. This provides useful information on the impact on budget as well as actors who have taken part in the most profitable films. 
+This project uses descriptive analyses, such as the measure of variability for budget and profitability as well as the tendency for actors in the most profitable films. This provides useful information on the impact of budget as well as actors who have taken part in the most profitable films. 
 
 ---
 
@@ -50,7 +50,7 @@ The 20 most successful movies filtered by budget over 150 million dollars, tomat
 
 ---
 
-The 10 actors with the highest avereage profit appeared in the most successful 80% of the time. 
+The 10 actors with the highest average profit appeared in the most successful 80% of the time. 
 
 ![pie plot](images/pie_plot.png)
 
